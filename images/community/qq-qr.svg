@@ -1,0 +1,49 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- QQ二维码 -->
+  <rect width="200" height="200" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  
+  <!-- QR码模拟 -->
+  <g fill="#000">
+    <!-- 定位标识 -->
+    <rect x="10" y="10" width="50" height="50" fill="none" stroke="#000" stroke-width="6"/>
+    <rect x="20" y="20" width="30" height="30"/>
+    
+    <rect x="140" y="10" width="50" height="50" fill="none" stroke="#000" stroke-width="6"/>
+    <rect x="150" y="20" width="30" height="30"/>
+    
+    <rect x="10" y="140" width="50" height="50" fill="none" stroke="#000" stroke-width="6"/>
+    <rect x="20" y="150" width="30" height="30"/>
+    
+    <!-- 数据模块 -->
+    <rect x="80" y="20" width="8" height="8"/>
+    <rect x="100" y="30" width="8" height="8"/>
+    <rect x="120" y="20" width="8" height="8"/>
+    
+    <rect x="20" y="80" width="8" height="8"/>
+    <rect x="40" y="80" width="8" height="8"/>
+    <rect x="80" y="80" width="8" height="8"/>
+    <rect x="100" y="100" width="8" height="8"/>
+    <rect x="120" y="80" width="8" height="8"/>
+    <rect x="140" y="100" width="8" height="8"/>
+    <rect x="160" y="80" width="8" height="8"/>
+    <rect x="180" y="100" width="8" height="8"/>
+    
+    <rect x="80" y="120" width="8" height="8"/>
+    <rect x="100" y="140" width="8" height="8"/>
+    <rect x="120" y="120" width="8" height="8"/>
+    <rect x="140" y="140" width="8" height="8"/>
+    <rect x="160" y="120" width="8" height="8"/>
+    <rect x="180" y="140" width="8" height="8"/>
+    
+    <rect x="80" y="160" width="8" height="8"/>
+    <rect x="100" y="180" width="8" height="8"/>
+    <rect x="120" y="160" width="8" height="8"/>
+    <rect x="140" y="180" width="8" height="8"/>
+    <rect x="160" y="160" width="8" height="8"/>
+    <rect x="180" y="180" width="8" height="8"/>
+  </g>
+  
+  <!-- QQ Logo -->
+  <circle cx="100" cy="100" r="25" fill="#1296db"/>
+  <text x="100" y="108" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">QQ</text>
+</svg>

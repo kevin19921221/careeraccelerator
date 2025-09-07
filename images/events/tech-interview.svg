@@ -1,0 +1,18 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tech-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#tech-bg)"/>
+  <text x="200" y="120" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">大厂面试官面对面</text>
+  <text x="200" y="145" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#E5E7EB">技术岗位求职指南</text>
+  <text x="200" y="170" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#D1FAE5">Tech Interview Guide</text>
+  <circle cx="80" cy="80" r="25" fill="rgba(255,255,255,0.2)"/>
+  <text x="80" y="88" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="white">💻</text>
+  <circle cx="320" cy="80" r="25" fill="rgba(255,255,255,0.2)"/>
+  <text x="320" y="88" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="white">🎯</text>
+  <rect x="50" y="220" width="300" height="40" rx="20" fill="rgba(255,255,255,0.2)"/>
+  <text x="200" y="244" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="white">BAT • 字节跳动 • 腾讯</text>
+</svg>

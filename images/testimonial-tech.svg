@@ -1,0 +1,26 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tech-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4F46E5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="60" fill="url(#tech-bg)"/>
+  <!-- Head -->
+  <circle cx="60" cy="45" r="18" fill="white" opacity="0.9"/>
+  <!-- Body -->
+  <ellipse cx="60" cy="85" rx="25" ry="20" fill="white" opacity="0.9"/>
+  <!-- Casual shirt -->
+  <rect x="50" y="68" width="20" height="22" rx="2" fill="rgba(34,197,94,0.8)"/>
+  <!-- Glasses -->
+  <circle cx="55" cy="42" r="6" fill="none" stroke="rgba(0,0,0,0.4)" stroke-width="1.5"/>
+  <circle cx="65" cy="42" r="6" fill="none" stroke="rgba(0,0,0,0.4)" stroke-width="1.5"/>
+  <line x1="61" y1="42" x2="59" y2="42" stroke="rgba(0,0,0,0.4)" stroke-width="1.5"/>
+  <!-- Beard -->
+  <ellipse cx="60" cy="52" rx="8" ry="4" fill="rgba(139,69,19,0.6)"/>
+  <!-- Eyes -->
+  <circle cx="55" cy="42" r="1.5" fill="rgba(0,0,0,0.6)"/>
+  <circle cx="65" cy="42" r="1.5" fill="rgba(0,0,0,0.6)"/>
+  <!-- Smile -->
+  <path d="M53 48 Q60 54 67 48" stroke="rgba(0,0,0,0.4)" stroke-width="2" fill="none"/>
+</svg>

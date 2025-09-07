@@ -1,0 +1,23 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hr-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="60" fill="url(#hr-bg)"/>
+  <!-- Head -->
+  <circle cx="60" cy="45" r="18" fill="white" opacity="0.9"/>
+  <!-- Body -->
+  <ellipse cx="60" cy="85" rx="25" ry="20" fill="white" opacity="0.9"/>
+  <!-- Professional suit -->
+  <rect x="48" y="68" width="24" height="25" rx="2" fill="rgba(0,0,0,0.8)"/>
+  <rect x="52" y="70" width="16" height="20" rx="1" fill="white" opacity="0.9"/>
+  <!-- Tie -->
+  <polygon points="60,70 58,75 62,75" fill="rgba(220,38,127,0.8)"/>
+  <!-- Eyes -->
+  <circle cx="55" cy="42" r="2" fill="rgba(0,0,0,0.6)"/>
+  <circle cx="65" cy="42" r="2" fill="rgba(0,0,0,0.6)"/>
+  <!-- Professional smile -->
+  <path d="M53 48 Q60 54 67 48" stroke="rgba(0,0,0,0.4)" stroke-width="2" fill="none"/>
+</svg>
